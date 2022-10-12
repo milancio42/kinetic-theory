@@ -31,13 +31,11 @@ As a result universe is filled with many particles of various shapes and sizes, 
 It resembles gas and we will call it Aether.
 
 Aether has a temperature and so it has a speed of sound:
-$$
-c^2 = \frac{\gamma T}{\langle m \rangle }
-$$
+$$ c^2 = \frac{\gamma T}{\langle m \rangle } $$
 
 Where:
 - $c$ - speed of sound
-- $\gamma$ - specific heat ratio - particles have 12 degrees of freedom (3 translational, 3 rotational and 2 vibrational for each axis) resulting in ￼$\gamma = 1 + \frac{2}{12} = \frac{7}{6}$
+- $\gamma$ - specific heat ratio - particles have 12 degrees of freedom (3 translational, 3 rotational and 2 vibrational for each axis) resulting in ￼$\gamma=1+\frac{2}{12}=\frac{7}{6}$
 - $T$ - temperature of Aether
 - $\langle m \rangle$ - average classical mass of particles
 
@@ -94,13 +92,9 @@ EM field does not exert a force on a charge in a classical sense. It only aligns
 Stronger the alignment, stronger the **net** acceleration. 
 
 The relation of the agglomerate’s angular frequency to its size:
-$$
-\langle F_{agg} \rangle =  m a = \rho r^3  \omega^2 r= \rho \omega^2r^4 = const
-$$
+$$ \langle F_{agg} \rangle = m a = \rho r^3  \omega^2 r= \rho \omega^2r^4 = const $$
 
-$$
-\omega = \frac{const}{r^2}
-$$
+$$ \omega = \frac{const}{r^2} $$
 
 Where:
 - $F_{agg}$ - mean agglomeration force
@@ -111,13 +105,9 @@ Where:
 - $\omega$ - angular frequency of the agglomerate
 
 The agglomerate’s acoustic power is constant:
-$$
-I_{acc} \propto \omega^2 r^2 \propto \frac{const}{r^2}
-$$
+$$ I_{acc} \propto \omega^2 r^2 \propto \frac{const}{r^2} $$
 
-$$
-W_{acc} = I_{acc} r^2 = const
-$$
+$$ W_{acc} = I_{acc} r^2 = const $$
 
 Where:
 - $I_{acc}$ - acoustic intensity at the agglomerate’s surface
@@ -128,9 +118,7 @@ Where:
 Constant mean agglomeration force leads to constant charge’s acoustic power which leads to **constant divergence of EM field**.
 
 The agglomeration force is often called the Strong Force. Its magnitude is as follows:
-$$
-\langle F_{agg} \rangle = \frac{\hbar c}{r_{limit} ^ 2}
-$$
+$$ \langle F_{agg} \rangle = \frac{\hbar c}{r_{limit} ^ 2} $$
 
 Where:
 - $F_{agg}$ - mean agglomeration force
@@ -146,9 +134,7 @@ A tiny part of the agglomeration momentum is transferred to the forward momentum
 This fraction, normalised for the apparent mass, is often called the Fine Structure Constant $\alpha$.
 
 The EM force at the proton’s EM limit is therefore:
-$$
-\langle F_{agg} \rangle = \frac{\alpha \hbar c}{r_{limit} ^ 2}
-$$
+$$ \langle F_{agg} \rangle = \frac{\alpha \hbar c}{r_{limit} ^ 2} $$
 
 Where:
 - $F_{agg}$ - mean agglomeration force
@@ -232,7 +218,7 @@ The real significance of the Arthur Compton’s experiment is the discovery of t
 As light is a pure wave, photons do not exist, and so they cannot be entangled.
 This can be verified with a very simple experiment:
 
-![](/assets/images/entanglement_setup.jpeg)
+![](/assets/images/entanglement_setup.001.jpeg)
 
 Where:
 - S - source of "entangled photons"
