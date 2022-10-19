@@ -20,7 +20,7 @@ also present simple experiments to test the new theory.
 
 ## A summary of differences with the current state of physics
 
-1. Big Bang was when the original particle of pure mass hit the universe wall and broke up, forming Aether.
+1. During Big Bang the original particle of pure mass hit the universe wall and broke up - forming Aether.
 1. As Aether vibrates due to the orignal collision, larger particles tend to agglomerate. This acoustic agglomeration is known as the strong force. 
    Residual strong force is analogical to Bjerknes force. 
 1. Charge is not a point. It is an agglomerate of Aether particles oscillating harmonically in an odd mode.
