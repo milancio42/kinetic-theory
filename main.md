@@ -46,7 +46,7 @@ A sound in Aether produced a long time ago has its wavelength longer now.
 Longer it is, earlier it was produced.
 This is often called the “Dark Energy”.
 
-## The Origin of Inertia
+## The Origin of Macroscopic Inertia
 
 When the original particle hit the universe wall, it caused it to vibrate.
 In turn, the wall transferred the vibration back to Aether when it was formed - creating the background acoustic field (**BAF**).
@@ -145,7 +145,7 @@ Where:
 - $r_{limit}$ - radius below which the proton’s EM field does not exist. Around 1 fm - which is slightly bigger than proton’s radius due to its oscillation.
 
 The Planck constant does not have a physical meaning on its own. 
-Together with the Aether’s speed of sound and the proton’s Em limit radius determine the magnitude of the agglomeration force a.k.a. the “strong force”.
+Together with the Aether’s speed of sound and the proton’s EM limit radius determine the magnitude of the agglomeration force a.k.a. the “strong force”.
 
 Let’s recall a charge accelerates becaus it ejects chunks in the opposite direction.
 A tiny part of the agglomeration momentum is transferred to the forward momentum per unit of time.
@@ -219,10 +219,24 @@ An electron has higher intrinsic acceleration than proton so it “flies” arou
 The path is blurred further from the proton as the intrinsic acceleration is less aligned.
 Harmonic paths form orbits modelled by the **Schrödinger equation**.
 
+### Heisenberg Uncertainty Principle
+
+As agglomerates have the randomly oriented intrisinc acceleration, their immediate momentum is also random.
+Therefore if we know their position, we can only observe their immediate momentum which tells us nothing about where they are going or how fast.
+
+To konw that we need to know the average momentum, which requires to observe them over longer time. But then we will lose the information about their precise position. 
+
+This is the explanation of **Heisenberg Uncertainty "Principle"**.
+
 ### Pauli's Exclusion Principle
 
-The electron cannot fall to the proton because it constantly accelerates so it has always a non-zero orbital energy.
-Also the radius of its helical path is much greater than proton’s diameter so they cannot collide naturally.
+The electron's average intrinsic acceleration is never fully perpendicular to proton but it is slightly off due to the finite speed of sound.
+This relativistic effect causes the electron to lose its average momentum over time until it is zero.
+
+But its immediate momentum is never zero and so it has always non-zero orbital energy.
+
+The radius of electron's helical path is much greater than proton’s diameter so they cannot collide naturally.
+
 This is the basis of **Pauli’s Exclusion “Principle”**.
 
 ### Absorption and Emission lines and Photons
@@ -241,9 +255,10 @@ The intensity of light only determines the speed of the energy accumulation.
 With the low intensity light it takes long enough time that we can distinguish the distinct clicks on the “photon” detector.
 The concept of **photon is just an illusion**.
 
-Due the relativistic effect and the randomness of Aether vibrations, an electron in a higher harmonic orbital tends to lose its kinetic energy and fall to the ground level.
+An electron in a higher harmonic orbital loses its average momentum over time.
 When it passes between harmonic orbitals, it generates non harmonic light which is indistinguishable from the background noise. 
-This explains the discreet emission lines.
+
+This explains the **discreet emission lines**.
 
 ### Bremmstrahlung
 
@@ -312,7 +327,7 @@ From the charge’s point of view it is finite and constant.
 Moving charges, due to the finiteness of the speed of sound, see each other’s acoustic field distorted and out of phase with their own oscillation - resulting in apparent length contraction and time dilation.
 
 Length contraction and time dilation affects the intrinsic acceleration, thus distorting also the apparent mass.
-This is the basis of Special Relativity.
+This is the basis of **Special Relativity**.
 
 The Secondary Acoustic Field traps larger particles in the vicinity of an agglomerate, creating a gradient of the average particle size.
 The average size of Aether particles is lower further from the agglomerate, causing the absolute speed of sound to be faster.
@@ -320,8 +335,18 @@ The average size of Aether particles is lower further from the agglomerate, caus
 Due to Huygen’s principle light will bend in such gradient.
 The vibrating agglomerates will accelerate down the gradient where they vibrate more slowly - distorting the apparent length, time and mass.
 
-The average particle size in a given space is the Gravitational Potential.
+The average particle size in a given space is the **Gravitational Potential**.
 The Gravitational Field is its gradient.
+
+The Gravitational constant $G$ represents the strength of this gradient. 
+We can expect the effect of the secondary acoustic field on the particle gradient to be fairly low, especially at such short distances as is the diameter of agglomerates.
+This explains why gravity is so relatively weak.
+
+In one case however it is not so weak. The size of particles forming Aether follows Boltzmann's exponential law. Therefore there must exist particles which are relatively huge.
+In case of galaxies it is reasonable to expect such particles in the center as there is the lowest centrifugal force.
+They would create enormous gradient, much steeper than what could ever by achieved by the normal agglomerates.
+The acoustic field created by charges could not penetrate a large group of such particles, making them perfectly opaque to light.
+This is the (possible) explanation of **supermassive black holes**.
 
 The Gravitational Field tends to align with the Secondary Acoustic Field.
 The alignment is slower further from the source b/c the acoustic field is weaker.
