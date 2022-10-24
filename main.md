@@ -224,7 +224,7 @@ Harmonic paths form orbits modelled by the **Schrödinger equation**.
 As agglomerates have the randomly oriented intrisinc acceleration, their immediate momentum is also random.
 Therefore if we know their position, we can only observe their immediate momentum which tells us nothing about where they are going or how fast.
 
-To konw that we need to know the average momentum, which requires to observe them over longer time. But then we will lose the information about their precise position. 
+To know that we need to know the average momentum, which requires to observe them over longer time. But then we will lose the information about their precise position. 
 
 This is the explanation of **Heisenberg Uncertainty "Principle"**.
 
