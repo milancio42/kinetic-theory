@@ -51,3 +51,4 @@ also present simple experiments to test the new theory.
 1. "Elementary" particles zoo is a consequence of agglomerates' many possible oscillation frequencies and modes.
 1. It is useless to hit protons against each other. We should instead concentrate to learn to manipulate the intrinsic acceleration of charges.
 
+Detailed explanation [here](/main.md) (work in progress)
