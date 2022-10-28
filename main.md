@@ -39,13 +39,6 @@ Where:
 - $T$ - temperature of Aether
 - $\langle m \rangle$ - average classical mass of particles
 
-The average size of particles tends to decrease over time.
-As collisions are elastic, the speed of sound must increase over time.
-
-A sound in Aether produced a long time ago has its wavelength longer now.
-Longer it is, earlier it was produced.
-This is often called the “Dark Energy”.
-
 ## The Origin of Macroscopic Inertia
 
 When the original particle hit the universe wall, it caused it to vibrate.
@@ -346,14 +339,21 @@ In one case however it is not so weak. The size of particles forming Aether foll
 In case of galaxies it is reasonable to expect such particles in the center as there is the lowest centrifugal force.
 They would create enormous gradient, much steeper than what could ever by achieved by the normal agglomerates.
 The acoustic field created by charges could not penetrate a large group of such particles, making them perfectly opaque to light.
-This is the (possible) explanation of **supermassive black holes**.
+This is the explanation of **supermassive black holes**.
 
-The Gravitational Field tends to align with the Secondary Acoustic Field.
-The alignment is slower further from the source b/c the acoustic field is weaker.
+This additional gradient is present also further from the center creating the additional gravitational field.
+This is the explanation of the **dark matter**.
 
-A star moving through Aether will have its gravitational field distorted behind it - like wakes appearing behind a broom sweeping sand.
+We can expect the average size of the Aether particles a galaxy is formed from decreasing over time. This is partly due to a diffusion and partly due to the movement of the ordinary agglomerates.
+That means the speed of sound of Aether in galaxies increases over time. 
+The anomalous redshift also known as the **dark energy** is caused by this phenomenon.
+This couls explain also the Arp's high redshift quasars.
 
-Other stars travelling behind will be affected by this - as if they were attracted by some additional **dark matter**. 
+The supermassive black holes, the dark matter and energy are the effect of the same phenomenon.
+
+Why most of the matter in universe is located in galaxies? The agglomeration of protons is analogous to a condensation of water dropplets in clouds.
+The clouds are formed best when there are microparticles of dust present in the air - as they serve as a condensation seeds.
+The same is true for the original protons - they best agglomerate if larger particles are present in Aether, which is the case of galaxies.
 
 ## Various
 The agglomerates have many names based on their frequency and mode of oscillation - proton, neutron, mesons, electron, muon, tau …
