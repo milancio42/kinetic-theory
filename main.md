@@ -213,10 +213,10 @@ A tiny part of the oscillation momentum is transferred to the forward momentum p
 This fraction, normalised for the apparent mass, is often called the Fine Structure Constant $\alpha$.
 
 The EM force at the proton’s EM limit is therefore:
-$$\langle F_{agg} \rangle = \frac{\alpha \hbar c}{r_{EMlimit} ^ 2}$$
+$$\langle F_{EM} \rangle = \frac{\alpha \hbar c}{r_{EMlimit} ^ 2}$$
 
 Where:
-- $F_{agg}$ - mean agglomeration force
+- $F_{EM}$ - Electromagnetic force
 - $\alpha$ - fine structure constant
 - $\hbar$ - reduced Planck constant
 - $c$ - speed of sound of Aether (speed of light)
