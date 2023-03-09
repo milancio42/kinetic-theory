@@ -1,8 +1,11 @@
 # Anomalous Photon Entanglement
 
-Abstract:
-A novel experiment is proposed to test the detection loophole in the quantum entanglement.
+### Abstract
 
+_A novel experiment is proposed to test the detection loophole in the quantum entanglement._
+
+
+### Introduction
 
 For about a century, it is largly accepted that light is composed of photons - objects that cannot be imagined. They behave as both, waves and particles at the same time.
 One of the consequences of this, as observed by Einstein, Podolsky and Rosen[^EPR], is the existence of the effect nowadays known as the quantum entanglement (QE).
@@ -14,6 +17,7 @@ in the experiment[^Pearle]. For example, we may be "cherry picking" only favorab
 While there have been claims that all the loopholes have been closed, we will examine one which has not yet been closed - the nature of light itself.
 The QE has a property that it gets lost after the photons have passed the polarizer. This is because their polarity is resolved and so they cannot continue to be entangled.
 
+### Experiment description
 Therefore we have designed an adjusted photon entanglement experiment, where we have added two additional polarizers between the source of entangled photons and the dual channel polarizers - described in the picture:
 
 ![](/assets/images/entanglement_setup.001.jpeg)
